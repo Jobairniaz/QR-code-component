@@ -4,7 +4,7 @@ function App() {
       <div className="p-5 bg-white rounded-3xl m-6">
         <img
           className="flex rounded-2xl"
-          src="/images/image-qr-code.png"
+          src="./images/image-qr-code.png"
           width={340}
           alt="QR-code"
         />
